@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "title": "EHA Industrial | Giải pháp nhà xưởng xây sẵn hàng đầu Việt Nam",
+    "description": "EHA Industrial cung cấp nhà xưởng xây sẵn (RBF), nhà xưởng-kho vận kết hợp (RBH) và văn phòng tại KCN Nam Đình Vũ, Hải Phòng"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "products": "Sản phẩm",
+    "products_all": "Tất cả sản phẩm",
+    "products_rbf": "Nhà xưởng (RBFs)",
+    "products_rbh": "Nhà xưởng-Kho vận (RBHs)",
+    "products_office": "Văn phòng",
+    "projects": "Dự án",
+    "insights": "Góc nhìn",
+    "news": "Tin tức",
+    "careers": "Tuyển dụng",
+    "contact": "Liên hệ"
+  },
+  "buttons": {
+    "learn_more": "Tìm hiểu thêm",
+    "contact_us": "Liên hệ ngay",
+    "view_all": "Xem tất cả",
+    "view_details": "Xem chi tiết",
+    "explore_products": "Khám phá sản phẩm",
+    "get_quote": "Nhận báo giá",
+    "call_now": "Gọi ngay"
+  },
+  "footer": {
+    "about_title": "Về EHA Industrial",
+    "about_text": "EHA Industrial — Phát triển hạ tầng công nghiệp xanh, thông minh và bền vững tại Việt Nam. Đối tác tin cậy cho các nhà đầu tư quốc tế.",
+    "products": "Sản phẩm",
+    "quick_links": "Liên kết nhanh",
+    "contact_info": "Thông tin liên hệ",
+    "address": "KCN Nam Đình Vũ, Hải An, Hải Phòng",
+    "copyright": "© 2025 EHA Industrial. Tất cả quyền được bảo lưu."
+  }
+}

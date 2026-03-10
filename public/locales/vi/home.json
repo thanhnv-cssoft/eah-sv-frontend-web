@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "tagline": "KCN Nam Đình Vũ, Hải Phòng",
+    "title": "Giải pháp nhà xưởng xây sẵn hàng đầu Việt Nam",
+    "subtitle": "Phát triển hạ tầng công nghiệp xanh, thông minh và bền vững cho nhà đầu tư quốc tế",
+    "cta_primary": "Khám phá sản phẩm",
+    "cta_secondary": "Liên hệ ngay"
+  },
+  "stats": {
+    "area": "Tổng diện tích quy hoạch",
+    "investment": "Vốn đầu tư",
+    "port_distance": "Khoảng cách đến cảng biển",
+    "experience": "Kinh nghiệm đối tác"
+  },
+  "services": {
+    "title": "Giải pháp của chúng tôi",
+    "subtitle": "Đa dạng loại hình bất động sản công nghiệp, đáp ứng mọi nhu cầu sản xuất và kinh doanh"
+  },
+  "featured_project": {
+    "badge": "Dự án tiêu biểu",
+    "cta": "Xem chi tiết dự án"
+  },
+  "why_choose_us": {
+    "title": "Tại sao chọn EHA Industrial?",
+    "subtitle": "Chúng tôi mang đến giải pháp hạ tầng công nghiệp toàn diện với những lợi thế vượt trội"
+  },
+  "gallery": {
+    "title": "Hình ảnh dự án",
+    "subtitle": "Khám phá không gian công nghiệp hiện đại tại EHA Hải Phòng",
+    "cta": "Xem toàn bộ hình ảnh"
+  },
+  "cta": {
+    "title": "Sẵn sàng khởi đầu dự án của bạn?",
+    "subtitle": "Liên hệ với chúng tôi để nhận tư vấn miễn phí và báo giá chi tiết cho nhu cầu mặt bằng công nghiệp của bạn.",
+    "btn_quote": "Nhận báo giá",
+    "btn_call": "Gọi ngay"
+  }
+}

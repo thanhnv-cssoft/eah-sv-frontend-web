@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "tagline": "Nam Dinh Vu Industrial Park, Hai Phong",
+    "title": "Vietnam's Premier Ready-Built Factory Solutions",
+    "subtitle": "Developing green, smart and sustainable industrial infrastructure for international investors",
+    "cta_primary": "Explore Products",
+    "cta_secondary": "Contact Us"
+  },
+  "stats": {
+    "area": "Total Planned Area",
+    "investment": "Investment Capital",
+    "port_distance": "Distance to Seaport",
+    "experience": "Partner Experience"
+  },
+  "services": {
+    "title": "Our Solutions",
+    "subtitle": "Diverse industrial real estate solutions to meet all production and business needs"
+  },
+  "featured_project": {
+    "badge": "Featured Project",
+    "cta": "View Project Details"
+  },
+  "why_choose_us": {
+    "title": "Why Choose EHA Industrial?",
+    "subtitle": "We deliver comprehensive industrial infrastructure solutions with outstanding advantages"
+  },
+  "gallery": {
+    "title": "Project Gallery",
+    "subtitle": "Explore the modern industrial spaces at EHA Hai Phong",
+    "cta": "View All Images"
+  },
+  "cta": {
+    "title": "Ready to start your project?",
+    "subtitle": "Contact us for a free consultation and detailed quote for your industrial space needs.",
+    "btn_quote": "Get a Quote",
+    "btn_call": "Call Now"
+  }
+}

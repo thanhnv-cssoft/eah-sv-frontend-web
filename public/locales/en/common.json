@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "title": "EHA Industrial | Vietnam's Premier Ready-Built Factory Solutions",
+    "description": "EHA Industrial provides Ready-Built Factories (RBF), Factory-Warehouse Hybrids (RBH) and office spaces at Nam Dinh Vu Industrial Park, Hai Phong"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "products_all": "All Products",
+    "products_rbf": "Factories (RBFs)",
+    "products_rbh": "Factory-Warehouse (RBHs)",
+    "products_office": "Office Spaces",
+    "projects": "Projects",
+    "insights": "Insights",
+    "news": "News",
+    "careers": "Careers",
+    "contact": "Contact"
+  },
+  "buttons": {
+    "learn_more": "Learn More",
+    "contact_us": "Contact Us",
+    "view_all": "View All",
+    "view_details": "View Details",
+    "explore_products": "Explore Products",
+    "get_quote": "Get a Quote",
+    "call_now": "Call Now"
+  },
+  "footer": {
+    "about_title": "About EHA Industrial",
+    "about_text": "EHA Industrial — Developing green, smart and sustainable industrial infrastructure in Vietnam. A trusted partner for international investors.",
+    "products": "Products",
+    "quick_links": "Quick Links",
+    "contact_info": "Contact Info",
+    "address": "Nam Dinh Vu IP, Hai An, Hai Phong",
+    "copyright": "© 2025 EHA Industrial. All rights reserved."
+  }
+}
