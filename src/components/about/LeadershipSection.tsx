@@ -1,6 +1,7 @@
 import { useTranslation } from 'next-i18next';
 import { useRouter } from 'next/router';
 import { motion } from 'framer-motion';
+import OptimizedImage from '@/components/common/OptimizedImage';
 import SectionTitle from '@/components/common/SectionTitle';
 import { leaderInfo } from '@/data/mock/company';
 
@@ -8,13 +9,6 @@ export default function LeadershipSection() {
   const { t } = useTranslation('about');
   const { locale } = useRouter();
   const loc = (locale as 'vi' | 'en') || 'vi';
-
-  const initials = leaderInfo.name
-    .split(' ')
-    .map((w) => w[0])
-    .join('')
-    .slice(-2)
-    .toUpperCase();
 
   return (
     <section className="section-padding">
@@ -28,9 +22,15 @@ export default function LeadershipSection() {
           transition={{ duration: 0.5 }}
           className="glass-card p-8 text-center md:p-10"
         >
-          {/* Avatar initials */}
-          <div className="mx-auto mb-5 flex h-20 w-20 items-center justify-center rounded-full bg-primary-500/15 font-heading text-2xl font-bold text-primary-500">
-            {initials}
+          {/* CEO photo */}
+          <div className="mx-auto mb-5 h-28 w-28 overflow-hidden rounded-full border-2 border-primary-500/30">
+            <OptimizedImage
+              src="/images/about/ceo-chu-viet-ha.jpg"
+              alt={leaderInfo.name}
+              width={112}
+              height={112}
+              className="h-full w-full object-cover"
+            />
           </div>
 
           <h3 className="mb-1 font-heading text-xl font-bold text-text-primary">
