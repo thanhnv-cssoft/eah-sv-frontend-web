@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Liên hệ | EHA Industrial",
+    "description": "Liên hệ EHA Industrial để nhận tư vấn miễn phí về giải pháp nhà xưởng xây sẵn và hạ tầng công nghiệp"
+  },
+  "hero": {
+    "title": "Liên hệ với chúng tôi",
+    "subtitle": "Sẵn sàng hỗ trợ bạn bất cứ lúc nào"
+  },
+  "form": {
+    "title": "Gửi yêu cầu tư vấn",
+    "subtitle": "Điền thông tin bên dưới, đội ngũ tư vấn sẽ liên hệ trong 24h",
+    "name": "Họ và tên",
+    "name_placeholder": "Nhập họ và tên",
+    "email": "Email",
+    "email_placeholder": "Nhập địa chỉ email",
+    "phone": "Số điện thoại",
+    "phone_placeholder": "Nhập số điện thoại",
+    "company": "Tên công ty",
+    "company_placeholder": "Nhập tên công ty (nếu có)",
+    "interest": "Quan tâm đến",
+    "interest_placeholder": "Chọn loại sản phẩm",
+    "interest_rbf": "Nhà xưởng xây sẵn (RBF)",
+    "interest_rbh": "Nhà xưởng-Kho vận (RBH)",
+    "interest_office": "Văn phòng",
+    "interest_other": "Khác",
+    "message": "Nội dung",
+    "message_placeholder": "Mô tả nhu cầu của bạn...",
+    "submit": "Gửi yêu cầu",
+    "success_title": "Gửi thành công!",
+    "success_message": "Cảm ơn bạn đã liên hệ. Đội ngũ tư vấn sẽ phản hồi trong vòng 24h.",
+    "required": "Vui lòng điền thông tin này"
+  },
+  "info": {
+    "title": "Thông tin liên hệ",
+    "address_title": "Địa chỉ",
+    "phone_title": "Điện thoại",
+    "email_title": "Email",
+    "website_title": "Website",
+    "hours_title": "Giờ làm việc",
+    "hours_value": "Thứ 2 - Thứ 6: 8:00 - 17:30"
+  }
+}

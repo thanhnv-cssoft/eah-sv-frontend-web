@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "title": "News | EHA Industrial",
+    "description": "Latest news from EHA Industrial about projects, events and development activities"
+  },
+  "hero": {
+    "title": "News",
+    "subtitle": "Latest updates from EHA Industrial"
+  },
+  "card": {
+    "read_more": "Read More",
+    "min_read": "min read"
+  },
+  "detail": {
+    "published": "Published",
+    "author": "Author",
+    "tags": "Tags",
+    "related_title": "Related News",
+    "related_subtitle": "Other articles you may be interested in",
+    "cta_title": "Interested in EHA Industrial?",
+    "cta_subtitle": "Contact us for detailed information about our products and projects.",
+    "cta_contact": "Contact Us",
+    "cta_products": "View Products"
+  }
+}

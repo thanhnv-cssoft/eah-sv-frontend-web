@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "title": "Góc nhìn | EHA Industrial",
+    "description": "Phân tích và nhận định về thị trường bất động sản công nghiệp từ chuyên gia EHA Industrial"
+  },
+  "hero": {
+    "title": "Góc nhìn chuyên gia",
+    "subtitle": "Phân tích và nhận định về thị trường bất động sản công nghiệp"
+  },
+  "card": {
+    "read_more": "Đọc bài viết",
+    "min_read": "phút đọc"
+  },
+  "detail": {
+    "published": "Ngày đăng",
+    "author": "Tác giả",
+    "tags": "Chủ đề",
+    "related_title": "Bài viết liên quan",
+    "related_subtitle": "Các góc nhìn chuyên gia khác",
+    "cta_title": "Muốn tìm hiểu thêm?",
+    "cta_subtitle": "Liên hệ để được tư vấn về giải pháp hạ tầng công nghiệp.",
+    "cta_contact": "Liên hệ ngay",
+    "cta_news": "Xem tin tức"
+  }
+}

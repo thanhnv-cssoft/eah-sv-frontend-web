@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Contact | EHA Industrial",
+    "description": "Contact EHA Industrial for a free consultation on ready-built factory solutions and industrial infrastructure"
+  },
+  "hero": {
+    "title": "Contact Us",
+    "subtitle": "Ready to assist you anytime"
+  },
+  "form": {
+    "title": "Send a Consultation Request",
+    "subtitle": "Fill in the form below and our team will contact you within 24 hours",
+    "name": "Full Name",
+    "name_placeholder": "Enter your full name",
+    "email": "Email",
+    "email_placeholder": "Enter your email address",
+    "phone": "Phone Number",
+    "phone_placeholder": "Enter your phone number",
+    "company": "Company Name",
+    "company_placeholder": "Enter company name (optional)",
+    "interest": "Interested In",
+    "interest_placeholder": "Select product type",
+    "interest_rbf": "Ready-Built Factory (RBF)",
+    "interest_rbh": "Factory-Warehouse Hybrid (RBH)",
+    "interest_office": "Office",
+    "interest_other": "Other",
+    "message": "Message",
+    "message_placeholder": "Describe your needs...",
+    "submit": "Submit Request",
+    "success_title": "Submitted Successfully!",
+    "success_message": "Thank you for contacting us. Our team will respond within 24 hours.",
+    "required": "This field is required"
+  },
+  "info": {
+    "title": "Contact Information",
+    "address_title": "Address",
+    "phone_title": "Phone",
+    "email_title": "Email",
+    "website_title": "Website",
+    "hours_title": "Working Hours",
+    "hours_value": "Monday - Friday: 8:00 AM - 5:30 PM"
+  }
+}

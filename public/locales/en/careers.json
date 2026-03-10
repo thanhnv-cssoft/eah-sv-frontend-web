@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "title": "Careers | EHA Industrial",
+    "description": "Career opportunities at EHA Industrial — building Vietnam's industrial future"
+  },
+  "hero": {
+    "title": "Career Opportunities",
+    "subtitle": "Join EHA Industrial — building Vietnam's industrial future"
+  },
+  "intro": "We are looking for talented and passionate individuals to build green, smart industrial infrastructure in Vietnam.",
+  "card": {
+    "view_job": "View Details",
+    "full_time": "Full-time",
+    "part_time": "Part-time",
+    "contract": "Contract"
+  },
+  "detail": {
+    "department": "Department",
+    "location": "Location",
+    "type": "Employment Type",
+    "level": "Level",
+    "posted": "Posted",
+    "responsibilities_title": "Responsibilities",
+    "requirements_title": "Requirements",
+    "benefits_title": "Benefits",
+    "apply_title": "Apply Now",
+    "apply_subtitle": "Send your CV to our recruitment email",
+    "apply_btn": "Apply via Email",
+    "contact_btn": "Contact HR"
+  },
+  "level": {
+    "junior": "Junior",
+    "mid": "Specialist",
+    "senior": "Senior Specialist",
+    "manager": "Manager"
+  },
+  "cta": {
+    "title": "Don't see a suitable position?",
+    "subtitle": "Send us your CV and we'll contact you when new positions open.",
+    "btn_contact": "Send CV"
+  }
+}

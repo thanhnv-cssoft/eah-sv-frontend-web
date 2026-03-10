@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "title": "Tuyển dụng | EHA Industrial",
+    "description": "Cơ hội nghề nghiệp tại EHA Industrial — xây dựng tương lai công nghiệp Việt Nam"
+  },
+  "hero": {
+    "title": "Cơ hội nghề nghiệp",
+    "subtitle": "Gia nhập EHA Industrial — xây dựng tương lai công nghiệp Việt Nam"
+  },
+  "intro": "Chúng tôi đang tìm kiếm những cá nhân tài năng và đam mê để cùng xây dựng hạ tầng công nghiệp xanh, thông minh tại Việt Nam.",
+  "card": {
+    "view_job": "Xem chi tiết",
+    "full_time": "Toàn thời gian",
+    "part_time": "Bán thời gian",
+    "contract": "Hợp đồng"
+  },
+  "detail": {
+    "department": "Phòng ban",
+    "location": "Địa điểm",
+    "type": "Loại hình",
+    "level": "Cấp bậc",
+    "posted": "Ngày đăng",
+    "responsibilities_title": "Trách nhiệm công việc",
+    "requirements_title": "Yêu cầu",
+    "benefits_title": "Quyền lợi",
+    "apply_title": "Ứng tuyển ngay",
+    "apply_subtitle": "Gửi CV về email tuyển dụng của chúng tôi",
+    "apply_btn": "Ứng tuyển qua email",
+    "contact_btn": "Liên hệ phòng nhân sự"
+  },
+  "level": {
+    "junior": "Nhân viên",
+    "mid": "Chuyên viên",
+    "senior": "Chuyên viên cao cấp",
+    "manager": "Trưởng phòng"
+  },
+  "cta": {
+    "title": "Không tìm thấy vị trí phù hợp?",
+    "subtitle": "Gửi CV của bạn để chúng tôi liên hệ khi có vị trí mới.",
+    "btn_contact": "Gửi CV"
+  }
+}

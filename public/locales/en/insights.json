@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "title": "Insights | EHA Industrial",
+    "description": "Expert analysis and perspectives on the industrial real estate market from EHA Industrial"
+  },
+  "hero": {
+    "title": "Expert Insights",
+    "subtitle": "Analysis and perspectives on the industrial real estate market"
+  },
+  "card": {
+    "read_more": "Read Article",
+    "min_read": "min read"
+  },
+  "detail": {
+    "published": "Published",
+    "author": "Author",
+    "tags": "Topics",
+    "related_title": "Related Insights",
+    "related_subtitle": "Other expert perspectives",
+    "cta_title": "Want to learn more?",
+    "cta_subtitle": "Contact us for consultation on industrial infrastructure solutions.",
+    "cta_contact": "Contact Us",
+    "cta_news": "View News"
+  }
+}
