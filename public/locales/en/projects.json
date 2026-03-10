@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "Projects | EHA Industrial",
+    "description": "Explore EHA Industrial's green and smart industrial park developments in Vietnam"
+  },
+  "hero": {
+    "title": "Our Projects",
+    "subtitle": "Developing green, smart and sustainable industrial parks"
+  },
+  "card": {
+    "total_area": "Total Area",
+    "status_completed": "Completed",
+    "status_in_progress": "In Progress",
+    "status_planned": "Planned",
+    "view_details": "View Details"
+  },
+  "detail": {
+    "overview_title": "Project Overview",
+    "investment_title": "Total Investment",
+    "total_area_title": "Total Area",
+    "status_title": "Status",
+    "gallery_title": "Project Gallery",
+    "highlights_title": "Highlights",
+    "key_facts_title": "Key Facts",
+    "infrastructure_title": "Technical Infrastructure",
+    "cta_title": "Interested in this project?",
+    "cta_subtitle": "Contact us for detailed information and a free consultation.",
+    "cta_contact": "Contact Us",
+    "cta_products": "View Products"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "About Us | EHA Industrial",
+    "description": "Learn about EHA Industrial - Vietnam's green and smart industrial infrastructure developer"
+  },
+  "hero": {
+    "title": "About EHA Industrial",
+    "subtitle": "Developing green, smart and sustainable industrial infrastructure"
+  },
+  "story": {
+    "title": "Our Story",
+    "subtitle": "Built on Core. Driven by Value",
+    "content_1": "EHA Industrial was established with a mission to develop green, smart and sustainable industrial infrastructure in Vietnam. We believe that a solid infrastructure foundation is the key to attracting investment and driving economic growth.",
+    "content_2": "With a total investment of VND 900 billion, EHA Industrial is developing a pioneering project at Nam Dinh Vu Industrial Park — the only industrial park in Vietnam with an internal seaport, offering superior logistics advantages for domestic and international investors.",
+    "mission_title": "Mission",
+    "mission": "Develop industrial infrastructure to international standards, creating sustainable value for investors, communities and the environment.",
+    "vision_title": "Vision",
+    "vision": "Become the leading industrial infrastructure developer in Northern Vietnam, targeting 100+ hectares within 2 years."
+  },
+  "stats": {
+    "title": "EHA in Numbers",
+    "subtitle": "Impressive figures reflecting our development scale and potential"
+  },
+  "partnership": {
+    "title": "Strategic Partner",
+    "subtitle": "Partnering with Vietnam's leading organizations",
+    "years_exp": "years of experience"
+  },
+  "why_choose_us": {
+    "title": "Why Choose EHA Industrial?",
+    "subtitle": "Outstanding competitive advantages in industrial infrastructure"
+  },
+  "timeline": {
+    "title": "Our Journey",
+    "subtitle": "Key milestones in our development and growth"
+  },
+  "leadership": {
+    "title": "Leadership",
+    "subtitle": "Experienced and dedicated leadership team"
+  },
+  "cta": {
+    "title": "Ready to partner with EHA?",
+    "subtitle": "Contact us now to discover industrial infrastructure solutions tailored to your business needs.",
+    "btn_contact": "Contact Us",
+    "btn_products": "View Products"
+  }
+}

@@ -55,5 +55,16 @@ export const projects: Project[] = [
       ],
     },
     isFeatured: true,
+    investment: {
+      vi: '900 tỷ VNĐ (~34.2 triệu USD)',
+      en: 'VND 900 billion (~USD 34.2 million)',
+    },
+    infrastructure: [
+      { key: 'roads', label: { vi: 'Đường nội bộ', en: 'Internal Roads' }, value: '23m, 34m, 46m' },
+      { key: 'water', label: { vi: 'Cấp nước', en: 'Water Supply' }, value: '30,000 m³/day' },
+      { key: 'wastewater', label: { vi: 'Xử lý nước thải', en: 'Wastewater Treatment' }, value: '10,000 m³/day' },
+      { key: 'power', label: { vi: 'Trạm biến áp', en: 'Substation' }, value: '110/22KV, 4 x 63 MVA' },
+      { key: 'port', label: { vi: 'Cảng nội bộ', en: 'Internal Port' }, value: '40,000 DWT, 300m turning basin' },
+    ],
   },
 ];

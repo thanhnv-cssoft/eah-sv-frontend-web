@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "Dự án | EHA Industrial",
+    "description": "Khám phá các dự án khu công nghiệp xanh và thông minh của EHA Industrial tại Việt Nam"
+  },
+  "hero": {
+    "title": "Dự án của chúng tôi",
+    "subtitle": "Phát triển các khu công nghiệp xanh, thông minh và bền vững"
+  },
+  "card": {
+    "total_area": "Tổng diện tích",
+    "status_completed": "Đã hoàn thành",
+    "status_in_progress": "Đang triển khai",
+    "status_planned": "Đang quy hoạch",
+    "view_details": "Xem chi tiết"
+  },
+  "detail": {
+    "overview_title": "Tổng quan dự án",
+    "investment_title": "Tổng vốn đầu tư",
+    "total_area_title": "Tổng diện tích",
+    "status_title": "Trạng thái",
+    "gallery_title": "Hình ảnh dự án",
+    "highlights_title": "Điểm nổi bật",
+    "key_facts_title": "Thông tin chi tiết",
+    "infrastructure_title": "Hạ tầng kỹ thuật",
+    "cta_title": "Quan tâm đến dự án này?",
+    "cta_subtitle": "Liên hệ ngay để nhận thông tin chi tiết và tư vấn miễn phí.",
+    "cta_contact": "Liên hệ ngay",
+    "cta_products": "Xem sản phẩm"
+  }
+}

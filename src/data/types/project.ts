@@ -7,6 +7,12 @@ export interface ProjectHighlight {
   text: LocalizedString;
 }
 
+export interface ProjectInfrastructure {
+  key: string;
+  label: LocalizedString;
+  value: string;
+}
+
 export interface Project {
   id: string;
   slug: string;
@@ -21,4 +27,6 @@ export interface Project {
   highlights: ProjectHighlight[];
   keyFacts: LocalizedStringArray;
   isFeatured: boolean;
+  investment?: LocalizedString;
+  infrastructure?: ProjectInfrastructure[];
 }

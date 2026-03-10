@@ -23,7 +23,11 @@ function AnimatedNumber({ target, start }: { target: number; start: boolean }) {
   return <>{count}</>;
 }
 
-export default function StatsCounter() {
+interface StatsCounterProps {
+  variant?: 'overlap' | 'inline';
+}
+
+export default function StatsCounter({ variant = 'overlap' }: StatsCounterProps) {
   const { locale } = useRouter();
   const loc = (locale as 'vi' | 'en') || 'vi';
   const ref = useRef<HTMLDivElement>(null);
@@ -43,7 +47,7 @@ export default function StatsCounter() {
   const stats = companyInfo.stats;
 
   return (
-    <section ref={ref} className="relative z-10 -mt-20">
+    <section ref={ref} className={variant === 'overlap' ? 'relative z-10 -mt-20' : 'py-12'}>
       <div className="container-padding mx-auto max-w-6xl">
         <motion.div
           initial={{ opacity: 0, y: 40 }}

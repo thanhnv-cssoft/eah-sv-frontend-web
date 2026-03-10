@@ -1,4 +1,4 @@
-import type { CompanyInfo, WhyChooseUsItem, ServiceItem } from '../types';
+import type { CompanyInfo, WhyChooseUsItem, ServiceItem, TimelineMilestone, LeaderInfo, PartnerInfo } from '../types';
 
 export const companyInfo: CompanyInfo = {
   name: 'EHA Industrial',
@@ -158,3 +158,90 @@ export const serviceItems: ServiceItem[] = [
     link: '/products?category=office',
   },
 ];
+
+export const companyTimeline: TimelineMilestone[] = [
+  {
+    year: '2022',
+    title: { vi: 'Thành lập công ty', en: 'Company Founded' },
+    description: {
+      vi: 'Thành lập Công ty CP Phát triển Công nghiệp EHA Hải Phòng, xác định tầm nhìn phát triển hạ tầng công nghiệp xanh.',
+      en: 'Established EHA Hai Phong Industrial Development JSC with a vision for green industrial infrastructure development.',
+    },
+    icon: 'flag',
+  },
+  {
+    year: '2023',
+    title: { vi: 'Ký kết đối tác chiến lược', en: 'Strategic Partnership Signed' },
+    description: {
+      vi: 'Hợp tác chiến lược với Tập đoàn Thăng Long — hơn 52 năm kinh nghiệm hạ tầng giao thông và đô thị.',
+      en: 'Strategic partnership with Thang Long Corporation — over 52 years of experience in transportation and urban infrastructure.',
+    },
+    icon: 'team',
+  },
+  {
+    year: '2024',
+    title: { vi: 'Khởi công EHA Hải Phòng', en: 'EHA Hai Phong Groundbreaking' },
+    description: {
+      vi: 'Khởi công dự án EHA Hải Phòng tại KCN Nam Đình Vũ, tổng diện tích 9 hectares, tổng vốn đầu tư 900 tỷ VNĐ.',
+      en: 'Groundbreaking ceremony for EHA Hai Phong project at Nam Dinh Vu IP, 9 hectares total area, VND 900 billion investment.',
+    },
+    icon: 'build',
+  },
+  {
+    year: '2025',
+    title: { vi: 'Hoàn thành giai đoạn 1', en: 'Phase 1 Completion' },
+    description: {
+      vi: 'Hoàn thành và bàn giao nhà xưởng xây sẵn RBF và RBH đầu tiên, sẵn sàng đón nhà đầu tư.',
+      en: 'Completed and handed over first Ready-Built Factories and Hybrid warehouses, ready for investors.',
+    },
+    icon: 'check-circle',
+  },
+  {
+    year: '2026+',
+    title: { vi: 'Mở rộng 100+ hectares', en: 'Expansion to 100+ Hectares' },
+    description: {
+      vi: 'Mở rộng quy mô phát triển lên 100+ hectares trong vòng 2 năm, đa dạng loại hình bất động sản công nghiệp.',
+      en: 'Expanding development to 100+ hectares within 2 years, diversifying industrial real estate offerings.',
+    },
+    icon: 'rise',
+  },
+];
+
+export const leaderInfo: LeaderInfo = {
+  name: 'Chu Việt Hà',
+  title: {
+    vi: 'Tổng Giám đốc (CEO)',
+    en: 'Chief Executive Officer (CEO)',
+  },
+  bio: {
+    vi: 'Với tầm nhìn phát triển hạ tầng công nghiệp bền vững, ông Chu Việt Hà dẫn dắt EHA Industrial trở thành nhà phát triển khu công nghiệp hàng đầu tại miền Bắc Việt Nam. Dưới sự lãnh đạo của ông, EHA đã hợp tác chiến lược cùng Tập đoàn Thăng Long và triển khai thành công dự án EHA Hải Phòng với tổng vốn đầu tư 900 tỷ VNĐ.',
+    en: 'With a vision for sustainable industrial infrastructure development, Mr. Chu Viet Ha leads EHA Industrial to become a leading industrial park developer in Northern Vietnam. Under his leadership, EHA has formed a strategic partnership with Thang Long Corporation and successfully launched the EHA Hai Phong project with a total investment of VND 900 billion.',
+  },
+};
+
+export const partnerInfo: PartnerInfo = {
+  name: 'Tập đoàn Thăng Long',
+  fullName: {
+    vi: 'Tổng Công ty Xây dựng Thăng Long - CTCP',
+    en: 'Thang Long Construction Corporation JSC',
+  },
+  yearsExperience: 52,
+  description: {
+    vi: 'Tập đoàn Thăng Long là một trong những đơn vị hàng đầu Việt Nam trong lĩnh vực xây dựng giao thông và hạ tầng đô thị, với hơn 52 năm kinh nghiệm và tham gia các dự án trọng điểm quốc gia.',
+    en: "Thang Long Corporation is one of Vietnam's leading companies in transportation construction and urban infrastructure, with over 52 years of experience and participation in major national projects.",
+  },
+  achievements: {
+    vi: [
+      'Hơn 52 năm kinh nghiệm xây dựng hạ tầng',
+      'Tham gia các dự án trọng điểm quốc gia',
+      'Năng lực thi công hạ tầng KCN đồng bộ',
+      'Đối tác chiến lược của EHA Industrial',
+    ],
+    en: [
+      'Over 52 years of infrastructure construction experience',
+      'Participated in major national projects',
+      'Capable of synchronized industrial park infrastructure construction',
+      'Strategic partner of EHA Industrial',
+    ],
+  },
+};

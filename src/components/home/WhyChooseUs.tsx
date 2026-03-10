@@ -22,7 +22,12 @@ const iconMap: Record<string, React.ReactNode> = {
   solution: <SolutionOutlined />,
 };
 
-export default function WhyChooseUs() {
+interface WhyChooseUsProps {
+  title?: string;
+  subtitle?: string;
+}
+
+export default function WhyChooseUs({ title, subtitle }: WhyChooseUsProps = {}) {
   const { t } = useTranslation('home');
   const { locale } = useRouter();
   const loc = (locale as 'vi' | 'en') || 'vi';
@@ -31,7 +36,7 @@ export default function WhyChooseUs() {
     <section className="relative section-padding overflow-hidden">
       <TechBackground />
       <div className="container-padding relative z-10 mx-auto max-w-7xl">
-        <SectionTitle title={t('why_choose_us.title')} subtitle={t('why_choose_us.subtitle')} />
+        <SectionTitle title={title ?? t('why_choose_us.title')} subtitle={subtitle ?? t('why_choose_us.subtitle')} />
 
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
           {whyChooseUsItems.map((item, i) => (

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Giới thiệu | EHA Industrial",
+    "description": "Tìm hiểu về EHA Industrial - Công ty phát triển hạ tầng công nghiệp xanh, thông minh tại Việt Nam"
+  },
+  "hero": {
+    "title": "Về EHA Industrial",
+    "subtitle": "Phát triển hạ tầng công nghiệp xanh, thông minh và bền vững"
+  },
+  "story": {
+    "title": "Câu chuyện của chúng tôi",
+    "subtitle": "Built on Core. Driven by Value",
+    "content_1": "EHA Industrial được thành lập với sứ mệnh phát triển hạ tầng công nghiệp xanh, thông minh và bền vững tại Việt Nam. Chúng tôi tin rằng một nền tảng hạ tầng vững chắc là yếu tố then chốt để thu hút đầu tư và thúc đẩy phát triển kinh tế.",
+    "content_2": "Với tổng vốn đầu tư 900 tỷ VNĐ, EHA Industrial đang phát triển dự án tiên phong tại KCN Nam Đình Vũ — khu công nghiệp duy nhất tại Việt Nam sở hữu cảng biển nội bộ, mang đến lợi thế logistics vượt trội cho các nhà đầu tư trong và ngoài nước.",
+    "mission_title": "Sứ mệnh",
+    "mission": "Phát triển hạ tầng công nghiệp đạt tiêu chuẩn quốc tế, tạo ra giá trị bền vững cho nhà đầu tư, cộng đồng và môi trường.",
+    "vision_title": "Tầm nhìn",
+    "vision": "Trở thành nhà phát triển hạ tầng công nghiệp hàng đầu tại miền Bắc Việt Nam, với mục tiêu 100+ hectares trong vòng 2 năm."
+  },
+  "stats": {
+    "title": "EHA trong con số",
+    "subtitle": "Những con số ấn tượng phản ánh quy mô và tiềm lực phát triển"
+  },
+  "partnership": {
+    "title": "Đối tác chiến lược",
+    "subtitle": "Hợp tác cùng những đơn vị hàng đầu Việt Nam",
+    "years_exp": "năm kinh nghiệm"
+  },
+  "why_choose_us": {
+    "title": "Tại sao chọn EHA Industrial?",
+    "subtitle": "Lợi thế cạnh tranh vượt trội trong lĩnh vực hạ tầng công nghiệp"
+  },
+  "timeline": {
+    "title": "Hành trình phát triển",
+    "subtitle": "Các cột mốc quan trọng trong hành trình xây dựng và phát triển"
+  },
+  "leadership": {
+    "title": "Ban lãnh đạo",
+    "subtitle": "Đội ngũ lãnh đạo giàu kinh nghiệm và tâm huyết"
+  },
+  "cta": {
+    "title": "Sẵn sàng hợp tác cùng EHA?",
+    "subtitle": "Liên hệ ngay để tìm hiểu về giải pháp hạ tầng công nghiệp phù hợp cho doanh nghiệp của bạn.",
+    "btn_contact": "Liên hệ ngay",
+    "btn_products": "Xem sản phẩm"
+  }
+}

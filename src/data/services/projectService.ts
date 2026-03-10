@@ -11,4 +11,7 @@ export const projectService = {
   getFeatured(): Project | undefined {
     return projects.find((p) => p.isFeatured);
   },
+  getAllSlugs(): string[] {
+    return projects.map((p) => p.slug);
+  },
 };
