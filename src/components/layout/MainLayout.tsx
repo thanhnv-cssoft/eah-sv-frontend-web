@@ -1,6 +1,7 @@
 import { type ReactNode } from 'react';
 import Header from './Header';
 import Footer from './Footer';
+import FloatingActions from './FloatingActions';
 
 interface MainLayoutProps {
   children: ReactNode;
@@ -12,6 +13,7 @@ export default function MainLayout({ children }: MainLayoutProps) {
       <Header />
       <main className="flex-1">{children}</main>
       <Footer />
+      <FloatingActions />
     </div>
   );
 }
