@@ -7,6 +7,7 @@ const categories = [
   { key: 'rbf', labelKey: 'rbf' },
   { key: 'rbh', labelKey: 'rbh' },
   { key: 'office', labelKey: 'office' },
+  { key: 'services', labelKey: 'services' },
 ] as const;
 
 interface ProductFilterBarProps {

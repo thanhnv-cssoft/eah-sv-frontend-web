@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import { useTranslation } from 'next-i18next';
 import { Drawer } from 'antd';
 import { MenuOutlined, CloseOutlined } from '@ant-design/icons';
+import Image from 'next/image';
 import LanguageSwitcher from './LanguageSwitcher';
 import { cn } from '@/utils/cn';
 
@@ -18,6 +19,7 @@ const navItems = [
       { key: 'products_rbf', href: '/products?category=rbf' },
       { key: 'products_rbh', href: '/products?category=rbh' },
       { key: 'products_office', href: '/products?category=office' },
+      { key: 'products_services', href: '/products?category=services' },
     ],
   },
   { key: 'projects', href: '/projects' },
@@ -60,14 +62,14 @@ export default function Header() {
     >
       <div className="container-padding mx-auto flex max-w-7xl items-center justify-between">
         {/* Logo */}
-        <Link href="/" className="flex items-center gap-2">
-          <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary-500 font-heading text-lg font-bold text-white">
-            E
-          </div>
-          <div>
-            <span className="font-heading text-lg font-bold text-text-primary">EHA</span>
-            <span className="ml-1 text-sm text-text-secondary">Industrial</span>
-          </div>
+        <Link href="/" className="relative block h-14 w-[220px]">
+          <Image
+            src="/images/logo/logo-vertical-dark.svg"
+            alt="EHA Industrial"
+            fill
+            className="object-contain object-left"
+            priority
+          />
         </Link>
 
         {/* Desktop Nav */}

@@ -4,6 +4,7 @@ export enum ProductCategory {
   RBF = 'rbf',
   RBH = 'rbh',
   OFFICE = 'office',
+  SERVICES = 'services',
 }
 
 export type ProductStatus = 'available' | 'leased' | 'coming-soon';

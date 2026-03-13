@@ -4,11 +4,11 @@ export const antdTheme: ThemeConfig = {
   algorithm: theme.darkAlgorithm,
   token: {
     colorPrimary: '#F47920',
-    colorBgBase: '#0A0E17',
-    colorBgContainer: '#111827',
-    colorBgElevated: '#1A2332',
+    colorBgBase: '#0F1623',
+    colorBgContainer: '#182030',
+    colorBgElevated: '#1F2B3D',
     colorTextBase: '#F1F5F9',
-    colorBorder: '#243044',
+    colorBorder: '#2A3A52',
     borderRadius: 8,
     fontFamily: "'Inter', 'Noto Sans', sans-serif",
   },
@@ -24,7 +24,7 @@ export const antdTheme: ThemeConfig = {
       borderRadius: 8,
     },
     Drawer: {
-      colorBgElevated: '#0A0E17',
+      colorBgElevated: '#0F1623',
     },
   },
 };

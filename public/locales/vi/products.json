@@ -1,17 +1,18 @@
 {
   "meta": {
-    "title": "Sản phẩm | EHA Industrial",
-    "description": "Nhà xưởng xây sẵn (RBF), nhà xưởng-kho vận (RBH) và văn phòng tại KCN Nam Đình Vũ, Hải Phòng"
+    "title": "Lĩnh vực | EHA Industrial",
+    "description": "Nhà xưởng xây sẵn (RBF), nhà xưởng-kho vận (RBH), văn phòng và dịch vụ trọn gói tại KCN Nam Đình Vũ, Hải Phòng"
   },
   "hero": {
-    "title": "Sản phẩm của chúng tôi",
+    "title": "Lĩnh vực",
     "subtitle": "Đa dạng giải pháp bất động sản công nghiệp đạt tiêu chuẩn quốc tế"
   },
   "filter": {
     "all": "Tất cả",
     "rbf": "Nhà xưởng (RBF)",
     "rbh": "Nhà xưởng-Kho vận (RBH)",
-    "office": "Văn phòng"
+    "office": "Văn phòng",
+    "services": "Dịch vụ trọn gói"
   },
   "card": {
     "area": "Diện tích",

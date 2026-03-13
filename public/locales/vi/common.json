@@ -6,11 +6,12 @@
   "nav": {
     "home": "Trang chủ",
     "about": "Giới thiệu",
-    "products": "Sản phẩm",
-    "products_all": "Tất cả sản phẩm",
+    "products": "Lĩnh vực",
+    "products_all": "Tổng quan",
     "products_rbf": "Nhà xưởng (RBFs)",
     "products_rbh": "Nhà xưởng-Kho vận (RBHs)",
     "products_office": "Văn phòng",
+    "products_services": "Dịch vụ trọn gói",
     "projects": "Dự án",
     "insights": "Góc nhìn",
     "news": "Tin tức",
@@ -29,7 +30,7 @@
   "footer": {
     "about_title": "Về EHA Industrial",
     "about_text": "EHA Industrial — Phát triển hạ tầng công nghiệp xanh, thông minh và bền vững tại Việt Nam. Đối tác tin cậy cho các nhà đầu tư quốc tế.",
-    "products": "Sản phẩm",
+    "products": "Lĩnh vực",
     "quick_links": "Liên kết nhanh",
     "contact_info": "Thông tin liên hệ",
     "address": "KCN Nam Đình Vũ, Hải An, Hải Phòng",

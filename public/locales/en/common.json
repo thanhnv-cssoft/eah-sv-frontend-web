@@ -6,11 +6,12 @@
   "nav": {
     "home": "Home",
     "about": "About Us",
-    "products": "Products",
-    "products_all": "All Products",
+    "products": "Our Business",
+    "products_all": "Overview",
     "products_rbf": "Factories (RBFs)",
     "products_rbh": "Factory-Warehouse (RBHs)",
     "products_office": "Office Spaces",
+    "products_services": "One-stop Services",
     "projects": "Projects",
     "insights": "Insights",
     "news": "News",
@@ -29,7 +30,7 @@
   "footer": {
     "about_title": "About EHA Industrial",
     "about_text": "EHA Industrial — Developing green, smart and sustainable industrial infrastructure in Vietnam. A trusted partner for international investors.",
-    "products": "Products",
+    "products": "Our Business",
     "quick_links": "Quick Links",
     "contact_info": "Contact Info",
     "address": "Nam Dinh Vu IP, Hai An, Hai Phong",

@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { useRouter } from 'next/router';
 import { useTranslation } from 'next-i18next';
 import {
@@ -22,13 +23,13 @@ export default function Footer() {
         <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-4">
           {/* Column 1: About */}
           <div>
-            <div className="mb-4 flex items-center gap-2">
-              <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary-500 font-heading text-sm font-bold text-white">
-                E
-              </div>
-              <span className="font-heading text-lg font-bold text-text-primary">
-                EHA <span className="text-sm font-normal text-text-secondary">Industrial</span>
-              </span>
+            <div className="relative mb-4 h-14 w-[220px]">
+              <Image
+                src="/images/logo/logo-vertical-dark.svg"
+                alt="EHA Industrial"
+                fill
+                className="object-contain object-left"
+              />
             </div>
             <p className="mb-4 text-sm leading-relaxed text-text-secondary">
               {t('footer.about_text')}
@@ -57,6 +58,11 @@ export default function Footer() {
               <li>
                 <Link href="/products?category=office" className="text-sm text-text-secondary transition-colors hover:text-primary-500">
                   {t('nav.products_office')}
+                </Link>
+              </li>
+              <li>
+                <Link href="/products?category=services" className="text-sm text-text-secondary transition-colors hover:text-primary-500">
+                  {t('nav.products_services')}
                 </Link>
               </li>
             </ul>

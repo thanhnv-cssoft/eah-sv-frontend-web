@@ -21,7 +21,7 @@ export default function CareersPage({ jobs }: CareersPageProps) {
     <>
       <SEOHead title={t('careers:meta.title')} description={t('careers:meta.description')} />
       <PageHero
-        backgroundImage="/images/projects/aerial-night-far.jpg"
+        backgroundImage="/images/about/aerial-night-far.jpg"
         title={t('careers:hero.title')}
         subtitle={t('careers:hero.subtitle')}
       />

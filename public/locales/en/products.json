@@ -1,17 +1,18 @@
 {
   "meta": {
-    "title": "Products | EHA Industrial",
-    "description": "Ready-Built Factories (RBF), Factory-Warehouse Hybrids (RBH) and Office Spaces at Nam Dinh Vu IP, Hai Phong"
+    "title": "Our Business | EHA Industrial",
+    "description": "Ready-Built Factories (RBF), Factory-Warehouse Hybrids (RBH), Office Spaces and One-stop Services at Nam Dinh Vu IP, Hai Phong"
   },
   "hero": {
-    "title": "Our Products",
+    "title": "Our Business",
     "subtitle": "Diverse industrial real estate solutions built to international standards"
   },
   "filter": {
     "all": "All",
     "rbf": "Factories (RBF)",
     "rbh": "Factory-Warehouse (RBH)",
-    "office": "Office"
+    "office": "Office",
+    "services": "One-stop Services"
   },
   "card": {
     "area": "Area",

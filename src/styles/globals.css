@@ -22,25 +22,25 @@
 
 @layer components {
   .glass {
-    @apply bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl;
+    @apply bg-white/[0.07] backdrop-blur-xl border border-white/[0.12] rounded-2xl;
   }
 
   .glass-strong {
-    @apply bg-white/10 backdrop-blur-2xl border border-white/15 rounded-2xl;
+    @apply bg-white/[0.12] backdrop-blur-2xl border border-white/[0.18] rounded-2xl;
   }
 
   .glass-card {
-    @apply bg-white/[0.03] backdrop-blur-xl border border-white/[0.08] rounded-2xl transition-all duration-300;
+    @apply bg-white/[0.05] backdrop-blur-xl border border-white/[0.10] rounded-2xl transition-all duration-300;
   }
 
   .glass-card:hover {
-    @apply bg-white/[0.06];
-    border-color: rgba(244, 121, 32, 0.2);
-    box-shadow: 0 0 30px rgba(244, 121, 32, 0.05);
+    @apply bg-white/[0.08];
+    border-color: rgba(244, 121, 32, 0.25);
+    box-shadow: 0 0 30px rgba(244, 121, 32, 0.08);
   }
 
   .glass-nav {
-    @apply bg-dark-900/80 backdrop-blur-2xl border-b border-white/[0.06];
+    @apply bg-dark-900/85 backdrop-blur-2xl border-b border-white/[0.08];
   }
 
   .gradient-primary {
@@ -90,14 +90,14 @@ html {
 }
 
 ::-webkit-scrollbar-track {
-  background: #0A0E17;
+  background: #0F1623;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #243044;
+  background: #2A3A52;
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #2D3B50;
+  background: #364A65;
 }
